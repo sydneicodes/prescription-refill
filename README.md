@@ -1,7 +1,7 @@
 ## Online Prescription Refill: 
 Fullstack app that enables user can request a prescription refill from their health provider. On the provider login side, it will prompt provider to sign on signature pad for prescription to be sent off to pharmacy.
 
-![Screen Shot 2022-11-11 at 10 20 04 PM](https://user-images.githubusercontent.com/99233457/201454117-d7f3f030-23db-43b7-a69e-3d791342e898.png)
+![Screen Shot 2022-11-11 at 10 20 04 PM](https://user-images.githubusercontent.com/99233457/201817865-d280be87-83ab-4ca0-a8a6-fa2b57feaf54.png)
 
 ## Installation
 
